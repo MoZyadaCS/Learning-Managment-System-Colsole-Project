@@ -20,7 +20,7 @@ public class Project {
 	
 	public static void main(String[] args){
 		readAllData();
-		System.out.println("Welcome to our Computer Science department at Jamum University");
+		System.out.println("Welcome to our Computer Science department at Al-Azhar University");
 		while(true) {
 			System.out.println("Please Choose one of the options: ");
 			System.out.println("1-Add");
